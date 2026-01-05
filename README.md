@@ -111,6 +111,6 @@ Bei Fragen oder Anregungen kontaktieren Sie uns unter:
 
 ## 📝 Releases
 
-Aktuelle Version: v1.0.0
+Aktuelle Version: v2.0.0
 
 Alle Releases finden Sie unter: https://github.com/alexiosg111/asto/releases
