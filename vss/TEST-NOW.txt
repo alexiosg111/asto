@@ -1,0 +1,34 @@
+VSS WEBSITE - EINFACH TESTEN
+================================
+
+🚀 SOFORT LOSLEGEN:
+
+1. Script ausführen:
+   ./start.sh
+
+2. Website öffnen:
+   http://localhost:3000
+
+3. Testen und Feedback geben!
+
+📋 WAS GETESTET WERDEN SOLLTE:
+
+✓ Website lädt korrekt
+✓ Design gefällt (Industrial High-Tech + Orange)
+✓ Navigation funktioniert 
+✓ Mobile Ansicht (Handy testen)
+✓ Buttons reagieren
+✓ Animationen laufen smooth
+
+🎯 FEEDBACK GEBEN:
+
+- Was gefällt gut?
+- Was soll geändert werden?
+- Design ok oder nicht?
+- Alles verständlich?
+
+⏹️ ZUM STOPPEN:
+Strg+C drücken
+
+---
+VSS Website v0.1 - Ready to Test!
