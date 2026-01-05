@@ -1,6 +1,6 @@
 # ASTO
 
-Willkommen bei ASTO - Ihre innovative Lösung für moderne Webanwendungen.
+Willkommen bei ASTO - Ihr Experte für Mobilfunktechnologie und Aufzugsservice.
 
 ## 📋 Voraussetzungen
 
@@ -53,8 +53,8 @@ Besuchen Sie dann `http://localhost:8000` in Ihrem Browser.
 
 ```
 asto/
-├── index.html          # Hauptseite
-├── styles.css          # Stylesheet
+├── index.html          # Hauptseite mit Mobilfunk- und Aufzugsservices
+├── styles.css          # Stylesheet mit modernem Design
 ├── README.md           # Diese Datei
 └── .git/              # Git-Repository
 ```
