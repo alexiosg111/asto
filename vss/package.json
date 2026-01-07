@@ -1,0 +1,28 @@
+{
+  "name": "vss-website",
+  "version": "1.0.0",
+  "description": "Vertical Service Solutions Website Redesign",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'VSS Website - Starting...' && open index.html",
+    "build": "echo 'VSS Website - Build process'",
+    "dev": "echo 'VSS Website - Development mode'"
+  },
+  "keywords": [
+    "vss",
+    "vertical-service-solutions",
+    "elevators",
+    "mobile-connectivity",
+    "website",
+    "redesign"
+  ],
+  "author": "Vertical Service Solutions",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35"
+  }
+}
